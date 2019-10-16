@@ -3,8 +3,8 @@
 This Python code for parse the address strings.
 Version: 0.1
 Last Edit: 2019-Oct-16
-Author: Xi Chen
-Email: xi.chen@
+Author: Chase
+Email: 
 Notice: Before running this script, be sure the Libpostal libarry installed.
 """
 
